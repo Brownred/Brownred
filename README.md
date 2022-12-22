@@ -1,3 +1,3 @@
 Hi There! 
 ...
-Seting Up my Github account..
+Seting Up my Github profile..
