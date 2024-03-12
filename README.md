@@ -1,52 +1,22 @@
-![MasterHead](https://15d.co/wp-content/uploads/2018/04/3loaders.gif)
-<h1 align="center">Hey 👋, My name is Lenox Miheso</h1>
-<img align="right" alt="Tech" Width="400" src="https://camo.githubusercontent.com/29ff2741f7da6031d364bd050da54882e6d57b22d0e4b5de2603b3e5f7a3aaef/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3330302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brownred&label=Profile%20views&color=0e75b6&style=flat" alt="brownred" /> </p>
+# 💫 About Me:
+As a student at Multimedia University of Kenya, I am dedicated to pursuing an undergraduate degree in Electrical and Telecommunications Engineering. Beyond my academic pursuits, I am a self-taught programmer driven by an insatiable curiosity for learning. Solving problems and rectifying errors are tasks I find both engaging and rewarding. With a keen eye for detail, I meticulously organize my goals and tasks to ensure productivity remains paramount.
 
-<h3> An Electrical Engineering student and a passionate Tech enthusiast </h3>
- I am currently a student at Multimedia university of Kenya pursuing an undergraduate degree in Electrical and telecommunications engineering. I am interested in the technology field and am seeking exciting opportunities related to the same.
 
-I am always curious about things and enjoy learning. I like to solve problems and fix errors. I am a detail orientated person and I keep my goals and tasks organized to maintain productivity.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lenox__m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lenoxmiheso) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lenoxmiheso) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lexx_lenox) 
 
-I believe that the skills that I have attained from the dynamic environment define me and I am looking forward to implementing and polishing them in opportunities that I receive.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=brownred&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=brownred&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brownred&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-----------------------------------------------------------------------------------------------------------------------------------------
+---
+[![](https://visitcount.itsvg.in/api?id=brownred&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Wholesale management - Databases**
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lenoxmiheso) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/lenoxmiheso) 
 
-- 🌱 I’m currently learning **PHP and Databases**
-
-- 🤝 I’m looking for help with **Backend Development and web development frameworks**
-
-- 👨‍💻 All of my projects are available at [https://www.comingsoon.com](https://www.comingsoon.com)
-
-- 📝 I regularly write articles on [https://medium.com/@lenoxmiheso](https://medium.com/@lenoxmiheso)
-
-- 💬 Ask me about **python**
-
-- 📫 How to reach me **lenoxmiheso@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com//drive/u/0/mobile/folders/1cjOYBVpQY41tDkSVV-_1nvRHFG1ZNolG?pli=](https://drive.google.com//drive/u/0/mobile/folders/1cjOYBVpQY41tDkSVV-_1nvRHFG1ZNolG?pli=)
-
-- ⚡ Fun fact **I love animes and Indian comedies.**
-
-_____________________________________________________________________________________________________________________________________
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lenox_miheso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="..." height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brownred-lm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lenox miheso" height="30" width="40" /></a>
-<a href="https://instagram.com/_lenoxm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="..." height="30" width="40" /></a>
-<a href="https://medium.com/@lenoxmiheso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lenoxmiheso" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@miheso_lenox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="..." height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lenoxmiheso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="..." height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brownred&show_icons=true&locale=en&layout=compact" alt="brownred" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brownred&show_icons=true&locale=en" alt="brownred" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brownred&" alt="brownred" /></p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
