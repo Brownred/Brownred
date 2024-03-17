@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lenox</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brownred&label=Profile%20views&color=0e75b6&style=flat" alt="brownred" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brownred&theme=" alt="brownred" /></a> </p>
-
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **lenoxmiheso@gmail.com**
@@ -51,17 +49,11 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/lenoxmiheso"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lenoxmiheso" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/lenoxmiheso"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lenoxmiheso" /></a><a href="https://ko-fi.com/lenox"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lenox" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brownred&langs_count=8&theme=transparent" alt=brownred />
+<img align="left"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brownred&langs_count=8&theme=transparent" alt=brownred />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=brownred&show_icons=true&locale=en&theme=transparent" alt="brownred" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brownred&theme=transparent" alt="brownred" /></p>
-
-<!--
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lenoxmiheso) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/lenoxmiheso) 
-
--->
