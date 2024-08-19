@@ -1,5 +1,5 @@
 # Hi There
-Software Engineer with 2+ years of experience in full-stack development and robotics. I build web apps for companies and love working on ambitious projects with awesome people. I aim for clean, reusable code — because a healthy code base makes great products!<br><br>Outside of coding, I’m a huge, huge, huge anime fan. The storytelling and art in my favorite series never cease to amaze me.
+Software Engineer with 5+ years of experience in full-stack development and robotics. I build web apps for companies and love working on ambitious projects with awesome people. I aim for clean, reusable code — because a healthy code base makes great products!<br><br>Outside of coding, I’m a huge, huge, huge anime fan. The storytelling and art in my favorite series never cease to amaze me.
 
 
 ## 🌐 Socials:
